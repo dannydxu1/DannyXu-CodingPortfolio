@@ -1,5 +1,4 @@
 # DannyXu-CodingPortfolio
-# iOS-Portfolio-Xu22
 
 ## Introduction
 Hello! I'm Danny Xu, and this is my high school computer science portfolio. 
